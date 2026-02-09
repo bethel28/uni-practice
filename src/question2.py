@@ -1,3 +1,3 @@
 def add_numbers(a, b):
-    unused = 10
+    unused = 90
     return a + b
